@@ -3,3 +3,8 @@
 <b>Code Quality::</b> The code is structured and organized with clear naming conventions and comments for readability.
 
 <b>Testing:</b>: Test cases cover various scenarios, including valid and invalid strings, and edge cases.
+
+To run the app execute the following command:
+```
+dotnet run
+```
