@@ -1,0 +1,15 @@
+/Users/nazar/Desktop/Task2_GoodBinaryString/bin/Debug/net7.0/Task2_GoodBinaryString
+/Users/nazar/Desktop/Task2_GoodBinaryString/bin/Debug/net7.0/Task2_GoodBinaryString.deps.json
+/Users/nazar/Desktop/Task2_GoodBinaryString/bin/Debug/net7.0/Task2_GoodBinaryString.runtimeconfig.json
+/Users/nazar/Desktop/Task2_GoodBinaryString/bin/Debug/net7.0/Task2_GoodBinaryString.dll
+/Users/nazar/Desktop/Task2_GoodBinaryString/bin/Debug/net7.0/Task2_GoodBinaryString.pdb
+/Users/nazar/Desktop/Task2_GoodBinaryString/obj/Debug/net7.0/Task2_GoodBinaryString.csproj.AssemblyReference.cache
+/Users/nazar/Desktop/Task2_GoodBinaryString/obj/Debug/net7.0/Task2_GoodBinaryString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nazar/Desktop/Task2_GoodBinaryString/obj/Debug/net7.0/Task2_GoodBinaryString.AssemblyInfoInputs.cache
+/Users/nazar/Desktop/Task2_GoodBinaryString/obj/Debug/net7.0/Task2_GoodBinaryString.AssemblyInfo.cs
+/Users/nazar/Desktop/Task2_GoodBinaryString/obj/Debug/net7.0/Task2_GoodBinaryString.csproj.CoreCompileInputs.cache
+/Users/nazar/Desktop/Task2_GoodBinaryString/obj/Debug/net7.0/Task2_GoodBinaryString.dll
+/Users/nazar/Desktop/Task2_GoodBinaryString/obj/Debug/net7.0/refint/Task2_GoodBinaryString.dll
+/Users/nazar/Desktop/Task2_GoodBinaryString/obj/Debug/net7.0/Task2_GoodBinaryString.pdb
+/Users/nazar/Desktop/Task2_GoodBinaryString/obj/Debug/net7.0/Task2_GoodBinaryString.genruntimeconfig.cache
+/Users/nazar/Desktop/Task2_GoodBinaryString/obj/Debug/net7.0/ref/Task2_GoodBinaryString.dll
